@@ -27,3 +27,4 @@ S:import Color from 'rgb-color-class';
  :  const { w, h } = dimensions;
  :
  :  for (let j = 0; j < h; j += 1) {
+S:this is how you do another section!
